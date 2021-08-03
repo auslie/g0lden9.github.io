@@ -18,8 +18,8 @@
                         <li>Tap <strong>Sources</strong></li>
                         <li>Tap the <strong>Edit</strong> button</li>
                         <li>Tap the <strong>Add</strong> button</li>
-                        <li>Type: <strong>cokepokes.github.io</strong></li>
-                        <li>Tap <strong>Add Source</strong></li>
+                        <li>Type: <strong>iOS 6 1 Click Plus</strong></li>
+                        <li>Tap <strong>Install My New iOS 6 On My Apple</strong></li>
                     </ol>
                 </div>
                 <div style="background:#FEE; -moz-border-radius-bottomleft: 9px; -webkit-border-bottom-left-radius: 9px; -moz-border-radius-bottomright: 9px; -webkit-border-bottom-right-radius: 9px;">
