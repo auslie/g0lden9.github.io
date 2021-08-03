@@ -1,3 +1,10 @@
+# g0lden9 3
+G0ID3N' Beta Repo 3
+
+How to install repo key:
+Run in terminal: apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C7584C0CBDEA84C1
+
+<a href="https://github.com/CokePokes/cokepokes.github.io/blob/master/cokepokes.pub" target="_blank" class="pub_key">Public Key</a>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
